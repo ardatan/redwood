@@ -64,7 +64,7 @@
   "devDependencies": {
     "@babel/cli": "7.19.3",
     "@babel/core": "7.19.3",
-    "@types/babel-plugin-tester": "9.0.5",
+    "@types/babel-plugin-tester": "9.0.10",
     "@types/babel__core": "7.1.19",
     "@types/findup-sync": "4.0.2",
     "@types/fs-extra": "9.0.13",
